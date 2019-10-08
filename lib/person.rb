@@ -4,6 +4,8 @@ class Person
     @name = p_name
   end 
   
-  def 
+  def job=(p_job)
+    @job = p_job
+  end 
   
 end 
